@@ -80,4 +80,34 @@ Responsibilities:
 Contribution:
 Enable the functionality and scalability of the application by handling all data processing and system logic behind the scenes.
 
+# UI Component Patterns
 
+UI component patterns are reusable interface elements that help maintain consistency, improve development speed, and enhance user experience. Below are the core components planned for this project:
+
+#  Navbar
+Description:
+A responsive top navigation bar that provides access to key sections of the application.
+
+Key Features:
+- Logo and branding
+- Navigation links (e.g., Home, Properties, Contact)
+- Mobile menu toggle (hamburger icon)
+- Optional user profile icon or login/logout button
+
+Purpose:
+Provides intuitive site navigation and supports branding consistency across all pages.
+
+---
+
+# Property Card
+Description:
+A modular card component designed to showcase property listings in a visually appealing format.
+
+Key Features:
+- Property image
+- Title and location
+- Price and property type
+- Quick action buttons (e.g., Save, View Details)
+
+Purpose:
+Displays summarized property information in a compact, interactive format that enhances browsing efficiency for users.
